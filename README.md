@@ -1,2 +1,2 @@
 # git_test
-test out git workflow
+Hello SOLO!
